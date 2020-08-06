@@ -23,7 +23,7 @@ I was able to find from the five-point summary of the variables by using describ
 
 Step 4: Finding and Handling Duplicate Rows
 Since there were no duplicates in the dataset, there was not so much we could do in this section.  
-.
+
 Step 5: Fuzzy Matching
 Challenge lied in identifying the variable to conduct fuzzy matching. There are no two 'logically making sense variables' in the dataset on which fuzzy matching could be done. However, I then considered to do a cross join of location variable in the dataset and find out the fuzzy scores with other locations in the same variable. Then, it was a straightforward thing to have it printed for fuzzy scores>50.
 #
