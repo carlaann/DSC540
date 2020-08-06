@@ -1,6 +1,12 @@
 #
 Fuzzy Matching on Infectious Disease by US CDC
 #
+Librairies
+#
+Pandas
+Numpy
+Fuzzywuzzy
+#
 The project consist one of the tables from the disease outbreaks which consisted of gonorrhea, Haemophilus Influenza Invasive Disease. The law requires monitoring of the disease to prevent outbreaks.  The dataset contains provisional cases of national notifiable diseases from the National Notifiable Diseases Surveillance System (NNDSS). NNDSS data from the 50 states, New York City, the District of Columbia and the U.S. territories are collated and published weekly on the NNDSS Data and Statistics web page (https://wwwn.cdc.gov/nndss/data-and-statistics.html). Cases reported by state health departments to CDC for weekly publication are provisional because of the time needed to complete case follow-up. Therefore, numbers presented in later weeks may reflect changes made to these counts as additional information becomes available. The national surveillance case definitions used to define a case are available on the NNDSS web site at https://wwwn.cdc.gov/nndss/. Information about the weekly provisional data and guides to interpreting data are available at: https://wwwn.cdc.gov/nndss/infectious-tables.html. Data are finalized 10 months after the end of the year.  
 #
 The data is collected from the CDC.   The data file location is: https://data.cdc.gov/NNDSS/NNDSS-TABLE-1M-Gonorrhea-to-Haemophilus-influenzae/h4wb-nae4 and the file names is as follows: 
